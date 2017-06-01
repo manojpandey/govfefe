@@ -7,11 +7,17 @@
                            __/ |
                           |___/
 # govfefe
-![](http://media3.giphy.com/media/l0IyeMK6G2Gr1Gm3e/giphy.gif)
+![](http://i.imgur.com/WLfQ6Zp.jpg)
+
+![](http://i.imgur.com/kp7784m.gif)
+
 > How to make America great again.
+
 > Ask not what your _covfefe_ can do for _youvafoo_,
+
 > Ask what _youvefefe_ can _dovefe_ your _covefefetry_.
-######^ [src](http://www.urbandictionary.com/define.php?term=Covfefe)
+
+###### ^ [src](http://www.urbandictionary.com/define.php?term=Covfefe)
 
 Thanks to [rgbkrk](https://github.com/rgbkrk/covfefe) for initiating the brewing of covfefe.
 
